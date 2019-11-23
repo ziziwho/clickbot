@@ -12,7 +12,7 @@ It can be used for earning various type of cryptocurrency.
 This script can be run on Window's command prompt
 and Termux terminal on Android.
 ### Table of Contents
-- **[Settings](#Overview)**
+- **[Overview](#Overview)**
   - [Liking](#liking)
 ## Overview
 ClickBot is a bot was made by [DOGE Click](https://dogeclick.com/) , a pay to click service that uses cryptocurrency to process payments..    
