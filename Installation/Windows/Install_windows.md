@@ -19,7 +19,7 @@ Extract the ClickBot package using [WinRAR](https://www.rarlab.com/)
 Extract the ClickBot by right click on the ClickBot.zip then click on Extract Here    
 #### Where is your file?
 
-![dir](Images/win-dir.jpg)    
+![dir](/Images/win-dir.jpg)    
 
 It is important to know, where is your file directory path because we need this for the next step.       
 As stated in the picture above, my ClickBot file is located at `C:\CODE\ClickBot Script\clickbot`
@@ -55,34 +55,34 @@ python C:\CODE\ClickBot Script\clickbot\main.py +639162995600
 ⚠️ Attention! Make sure you enter your phone number which linked with telegram. Do not enter the number listed in the example.    
 This is an example command.    
 
-![cmd](Images/termux-execute-cmd.png)    
+![cmd](/Images/termux-execute-cmd.png)    
 
 After you enter the command.    
 You'll see the default home page and choices menu being displayed:    
 
-!(win-choice)[Images/win-choice_menu.png]
+!(win-choice)[/Images/win-choice_menu.png]
 
 You will be given an opening welcome and given a choices of cryptocurrency.    
 Here you can type the listed numbers such as 0, 1, 2, 3, and 4.    
 After you make a choice. Your choice will be displayed on the screen.    
 And after that, the action menu option is displayed    
 
-![action-win](Images/win-action_menu.png)    
+![action-win](/Images/win-action_menu.png)    
 
 state your choice by typing 0 or 1 or 2    
 
-![win-tele-code](Images/win-tele-code.png)    
+![win-tele-code](/Images/win-tele-code.png)    
 
 After you make a choice. Your choice will be displayed on the screen.    
 then to access your telegram, bot will request for your login code.    
 
-![telecode](Images/telecode.png)   
+![telecode](/Images/telecode.png)   
 
 ⚠️ Alert! Our script will not save or steal your login code but be careful not to share your code with anyone.    
 This login code purpose is to gain access with your telegram then stored the session date within your computer.    
 Once again, We are not collecting, storing any of your information.    
 
-![win-result](Images/win-result.png)    
+![win-result](/Images/win-result.png)    
 
 After you make a choice. Your choice will be displayed on the screen.    
 then the script will do his job and you just need to relax and your cryptocurrency will be running to your feets.
