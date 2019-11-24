@@ -45,7 +45,7 @@ cd /storage/emulated/0/clickbot/
 pip install -r requirements.txt
 ```
 
-![cd](Images/termux-cd.jpg)
+![cd](/Images/termux-cd.jpg)
 
 #### Getting Started
 Getting started is super easy.
@@ -60,15 +60,16 @@ Click each of them and start each bot.
 4. [Bitcoinclick_bot](https://t.me/Bitcoinclick_bot?start=eBh6)
 
 and after you start all bot, continue to next step.  
+##### Usage: 
+> python main.py phone_number [optional for notes]    
 
-> Usage: python main.py phone_number    
-> Input number in international format (example: +639162995600)    
+❗ Input number in international format (example: +1234567890)    
 
 Open your termux terminal. Type the following command:    
 ```
 python /storage/emulated/0/clickbot/main.py +639162995600
 ```
-Attention! Make sure you enter your phone number which linked with telegram. Do not enter the number listed in the example    
+⚠️ Attention! Make sure you enter your phone number which linked with telegram. Do not enter the number listed in the example    
 This is an example command.    
 
 ![cmd](/Images/termux-execute-cmd.png)
