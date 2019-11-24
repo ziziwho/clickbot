@@ -95,7 +95,7 @@ then to access your telegram, bot will request for your login code.
 
 ![telecode](/Images/telecode.png)    
 
-Alert! Our script will not save or steal your login code but be careful not to share your code with anyone.    
+⚠️ Alert! Our script will not save or steal your login code but be careful not to share your code with anyone.    
 This login code purpose is to gain access with your telegram then stored the session date within your computer.    
 Once again, We are not collecting, storing any of your information.    
 
