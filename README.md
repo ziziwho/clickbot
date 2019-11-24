@@ -27,7 +27,7 @@ ClickBot is a bot was made by [DOGE Click](https://dogeclick.com/) , a pay to cl
 - [ ] Earn multiple cryptocurrency simultaneously
 ## Download
 Script is where the magic begins. Go ahead and download it now.    
-If you don't download the script yet get it now by clicking [/releases](/releases/latest)
+If you don't download the script yet get it now by clicking [/releases](https://github.com/ziziwho/clickbot/releases)
 ## Intallation
 ### For Windows
 
