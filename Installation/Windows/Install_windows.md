@@ -60,7 +60,7 @@ This is an example command.
 After you enter the command.    
 You'll see the default home page and choices menu being displayed:    
 
-!(win-choice)[/Images/win-choice_menu.png]
+![win-choice](/Images/win-choice_menu.png)
 
 You will be given an opening welcome and given a choices of cryptocurrency.    
 Here you can type the listed numbers such as 0, 1, 2, 3, and 4.    
