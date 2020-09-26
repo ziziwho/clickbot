@@ -39,9 +39,9 @@ Click each of them and start each bot.
 
 0. [Dogecoin_click_bot](https://t.me/Dogecoin_click_bot?start=BbHI)
 1. [Litecoin_click_bot](https://t.me/Litecoin_click_bot?start=2sWF)
-2. [BCH_clickbot](https://t.me/BCH_clickbot?start=BGny)
+2. [BCH_clickbot](https://t.me/BCH_clickbot?start=5zUA)
 3. [Zcash_click_bot](https://t.me/Zcash_click_bot?start=9io7)
-4. [Bitcoinclick_bot](https://t.me/Bitcoinclick_bot?start=eBh6)
+4. [Bitcoinclick_bot](https://t.me/Bitcoinclick_bot?start=yGhK)
 
 and after you start all bot, continue to next step.
 ##### Usage: 
