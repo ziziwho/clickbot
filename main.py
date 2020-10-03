@@ -28,7 +28,7 @@ api_hash = 'db55ad67a98df35667ca788b97f771f5'
 
 # WELCOME BLOCK
 
-print(Fore.RED + '\n\n\n		 Click Bot v5' + Fore.RESET)
+print(Fore.RED + '\n\n\n		 Click Bot v5.0' + Fore.RESET)
 print(Fore.YELLOW + '		 Channel Youtube :' + Fore.RED +
       ' Zizi' + Fore.WHITE + 'works' + Fore.YELLOW)
 # DESCRIPTION BLOCK
@@ -232,6 +232,7 @@ async def main():
         async def earned_amount(event):
             message = event.raw_text
             if 'You earned' in message:
+                print_msg_time(Fore.GREEN + message[0:43] + '\n' + Fore.RESET)
 
         # No more ads
         @client.on(events.NewMessage(chats=url_channel, incoming=True))
