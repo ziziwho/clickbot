@@ -27,16 +27,12 @@ api_id = 800812
 api_hash = 'db55ad67a98df35667ca788b97f771f5'
 
 # WELCOME BLOCK
-print(Fore.MAGENTA + '		__      _____ _    ___ ___  __  __ ___ ')
-print(Fore.MAGENTA + '		\ \    / / __| |  / __/ _ \|  \/  | __|')
-print(Fore.MAGENTA + '		 \ \/\/ /| _|| |_| (_| (_) | |\/| | _| ')
-print(Fore.MAGENTA + '		  \_/\_/ |___|____\___\___/|_|  |_|___|\n' + Fore.RESET)
-print(Fore.RED + '   -                   Click Bot Script v4                 -' + Fore.RESET)
-print('')
-print(Fore.YELLOW + '   -               Channel Youtube :' + Fore.RED +
-      ' Zizi' + Fore.WHITE + 'works' + Fore.YELLOW + '             -')
+
+print(Fore.RED + '\n\n\n		 Click Bot v5' + Fore.RESET)
+print(Fore.YELLOW + '		 Channel Youtube :' + Fore.RED +
+      ' Zizi' + Fore.WHITE + 'works' + Fore.YELLOW)
 # DESCRIPTION BLOCK
-print('\n		 Earn money using telegram bot.\n')
+print('\n		 Earn cryptocurrency using telegram bot automatically.\n')
 # Bot options
 print(' Options: \n')
 option = ["Dogecoin_click_bot", "Litecoin_click_bot", "BCH_clickbot",
