@@ -232,7 +232,6 @@ async def main():
         async def earned_amount(event):
             message = event.raw_text
             if 'You earned' in message:
-                print_msg_time(Fore.GREEN + event.raw_text + '\n' + Fore.RESET)
 
         # No more ads
         @client.on(events.NewMessage(chats=url_channel, incoming=True))
