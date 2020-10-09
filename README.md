@@ -11,9 +11,8 @@
 
 A script written on Python for automated telegram crypto earning bot.  
 It can be used for earning various type of cryptocurrency.  
-This script can be run on Window's command prompt
-and Termux terminal on Android.
-
+Only have executables (.exe) 
+ 
 ## Overview
 ClickBot is a bot was made by [DOGE Click](https://dogeclick.com/) , a pay to click service that uses cryptocurrency to process payments..    
 
@@ -23,11 +22,16 @@ ClickBot is a bot was made by [DOGE Click](https://dogeclick.com/) , a pay to cl
 - [x] 3 functions such as visiting sites, joining chats, and messaging bots.
 - [x] User determine which cryptocurrency to earn.
 - [x] User determine which funtions to use.
+- [x] Wallet which used to withdraw for every accounts
+- [x] Multi-Account
+- [x] Auto Withdraw
+- [x] Can set minimum amount per account to withdraw
+- [x] Smart User Interface
 - [ ] AutoComplete captcha (skip captcha for now)
 - [ ] Earn multiple cryptocurrency simultaneously
 ## Download
-Script is where the magic begins. Go ahead and download it now.    
-If you don't download the script yet get it now by clicking [/releases](/releases/latest)
+Go ahead and download it now.    
+If you don't download yet get it now by clicking [clickbot.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot.exe)
 ## Intallation
 ### For Windows
 
@@ -37,29 +41,12 @@ Watch video tutorial :
 
 [![Window Installation Video](https://img.youtube.com/vi/-lmO-_W8-Jw/0.jpg)](https://www.youtube.com/watch?v=-lmO-_W8-Jw)    
 
-### For Android
+### For Android / Linux / MacOS & Others
 
-Read text tutorial at [/Installation/Android](/Installation/Android/Install_android.md)    
+not available for other operation system except Windows
 
-Watch video tutorial :    
 
-[![Android Installation Video](https://img.youtube.com/vi/9z4meV0BMMQ/0.jpg)](https://www.youtube.com/watch?v=9z4meV0BMMQ)    
 
-##### Usage: 
-> python main.py phone_number [optional for notes]    
-
-❗ Input number in international format (example: +1234567890)    
-
-Open your windows command prompt or termux terminal. Type the following command:    
-
-> **Windows@Command-Prompt :**    
-> ```
-> python C:\CODE\ClickBot Script\clickbot\main.py +1234567890
-> ```
-> **Android@Termux :**    
-> ```
-> python /storage/emulated/0/clickbot/main.py +1234567890
-> ```
 ⚠️ Attention! Make sure you enter your phone number which linked with telegram.
 ## Bugs and Issues
 
