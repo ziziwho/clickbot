@@ -1,0 +1,35 @@
+{
+    "check": "ON",
+    "wallet_details": [
+        {
+            "BTC": {
+                "Address": "bc1q05y3quct0k25s05dzu7r08ujsryqrx8r7ej7vn",
+                "Amount": "0.00003"
+            }
+        },
+        {
+            "LTC": {
+                "Address": "ltc1qx3w0t7v62k0vdaecjntrjrhavh3a9jxzhdxkh0",
+                "Amount": "0.0004"
+            }
+        },
+        {
+            "DOGE": {
+                "Address": "DTKbuXQxAsG5hdy9Qgf3P5hJVp8eaRJ8m1",
+                "Amount": "4.0"
+            }
+        },
+        {
+            "BCH": {
+                "Address": "qrde582sv7ca8aeacf4v3wjqttd89au57uacr4jmj2",
+                "Amount": "0.0001"
+            }
+        },
+        {
+            "ZEC": {
+                "Address": "t1WUQ1b3R9h3i7yNTz6xtAUriWkfSkpEJcb",
+                "Amount": "0.00035"
+            }
+        }
+    ]
+}
