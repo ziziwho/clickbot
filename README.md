@@ -33,9 +33,11 @@ ClickBot is a bot was made by [DOGE Click](https://dogeclick.com/) , a pay to cl
 Go ahead and download it now.    
 If you don't download yet get it now by clicking 
 
-[clickbot-Visit.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot-Visit.exe.exe)
-[clickbot-JoinBot.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot-JoinBotexe)
-[clickbot-JoinChannel.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot-JoinChannel.exe)
+- [clickbot-Visit.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot-Visit.exe)
+
+- [clickbot-JoinBot.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot-JoinBot.exe)
+
+- [clickbot-JoinChannel.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot-JoinChannel.exe)
 
 Each exe name are self explanatory.
 All in One exe still under development.
