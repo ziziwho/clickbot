@@ -42,16 +42,17 @@ If you don't download yet get it now by clicking
 
 ## Intallation
 ### For Windows
-
+! will update text tutorial soon  
 Read text tutorial at [/Installation/Windows](/Installation/Windows/Install_windows.md)    
 
 Watch video tutorial :    
 
-[![Window Installation Video](https://img.youtube.com/vi/-lmO-_W8-Jw/0.jpg)](https://www.youtube.com/watch?v=-lmO-_W8-Jw)    
+! will post video tutorial soon  
+[![Window Installation Video](https://img.youtube.com/vi/-lmO-_W8-Jw/4.jpg)](https://www.youtube.com/channel/UCW36UNroi3B4Ix9ln1e6rUQ?sub_confirmation=1)    
 
 ### For Android / Linux / MacOS & Others
 
-not available for other operation system except Windows
+no longer available for other operation system except Windows
 
 
 
