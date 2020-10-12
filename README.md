@@ -31,16 +31,25 @@ ClickBot is a bot was made by [DOGE Click](https://dogeclick.com/) , a pay to cl
 - [ ] Earn multiple cryptocurrency simultaneously
 ## Download
 Go ahead and download it now.    
+Each exe name are self explanatory.  
 If you don't download yet get it now by clicking 
 
+### By action  
+  
 - [clickbot-Visit.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot-Visit.exe)
 
 - [clickbot-JoinBot.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot-JoinBot.exe)
 
 - [clickbot-JoinChannel.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot-JoinChannel.exe)
-
-Each exe name are self explanatory.
-All in One exe still under development.
+  
+### All in One  
+It will ask what action to perform.
+Action options :  
+* Visit  
+* JoinBot  
+* JoinChannel  
+  
+Download All in One executable by clicking [clickbot.exe](https://github.com/ziziwho/clickbot/raw/master/clickbot.exe)
 
 ## Intallation
 ### For Windows
