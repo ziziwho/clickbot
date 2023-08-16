@@ -10,6 +10,7 @@
 [![Made with Python](https://github.com/ziziwho/clickbot/blob/master/made-with-python.svg)](https://www.python.org/)
 
 ## DOGE Click Notice
+Regrettably, the DOGE Click service has been discontinued, leading to the cessation of functionality for clickbot program.
 ![Notice](Images/DOGE%20Click%20Notice.PNG)
 
 ## Description
