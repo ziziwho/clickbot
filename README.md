@@ -9,6 +9,11 @@
 
 [![Made with Python](https://github.com/ziziwho/clickbot/blob/master/made-with-python.svg)](https://www.python.org/)
 
+## DOGE Click Notice
+![Notice](Images/DOGE%20Click%20Notice.PNG)
+
+## Description
+
 A script written on Python for automated telegram crypto earning bot.  
 It can be used for earning various type of cryptocurrency.  
 Only have executables (.exe) 
