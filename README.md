@@ -7,7 +7,7 @@
 [Telegram Group](https://t.me/ziziworksgroup) |
 [Twitter](https://twitter.com/ziziworks_MY)  
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)    [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![Made with Python](https://github.com/ziziwho/clickbot/blob/master/made-with-python.svg)](https://www.python.org/)
 
 A script written on Python for automated telegram crypto earning bot.  
 It can be used for earning various type of cryptocurrency.  
